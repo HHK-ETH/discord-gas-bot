@@ -11,7 +11,7 @@
     "url": "git+https://github.com/HHK-ETH/discord-gas-bot.git"
   },
   "author": "",
-  "license": "GNU Affero General Public License v3.0",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/HHK-ETH/discord-gas-bot/issues"
   },
@@ -21,8 +21,5 @@
     "dotenv": "^10.0.0",
     "node-fetch": "^3.0.0"
   },
-  "type": "module",
-  "engines": {
-    "node": "16.11.1"
-  }
+  "type": "module"
 }
