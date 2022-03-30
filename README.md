@@ -1,7 +1,7 @@
 # discord-gas-bot
 Very simple js discord Ethereum gas bot using Blocknative gas API.
 
-##Usage
+## Usage
 
 * ```cp .env.example .env```
 * Edit .env content
