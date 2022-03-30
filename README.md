@@ -7,3 +7,9 @@ Very simple js discord Ethereum gas bot using Blocknative gas API.
 * Edit .env content
 * ```yarn```
 * ```yarn start```
+
+## Available on
+
+* Sushiswap
+* Stargate
+* Layer zero
