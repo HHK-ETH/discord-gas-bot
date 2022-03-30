@@ -11,7 +11,7 @@
     "url": "git+https://github.com/HHK-ETH/discord-gas-bot.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "GNU Affero General Public License v3.0",
   "bugs": {
     "url": "https://github.com/HHK-ETH/discord-gas-bot/issues"
   },
